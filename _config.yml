@@ -1,11 +1,11 @@
 # Site settings
-author: Nina Kazzim
-title: 
+author: atracta
+title: all about the code....
 header-img: img/home-bg.png
 email: kazzim@icloud.com
-copyright_name: Nina Kazzim
+copyright_name: atracta
 description: > # this means to ignore newlines until "baseurl:"
-  
+  ....and then some
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  ninadecoder
