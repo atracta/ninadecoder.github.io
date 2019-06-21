@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      " **HOW DO I MAKE MYSELF MATTER TO ME?!**"
-date:       2019-06-21 18:13:52 +0000
+title:      " HOW DO I MAKE MYSELF MATTER TO ME?!"
+date:       2019-06-21 14:13:52 -0400
 permalink:  how_do_i_make_myself_matter_to_me
 ---
 
