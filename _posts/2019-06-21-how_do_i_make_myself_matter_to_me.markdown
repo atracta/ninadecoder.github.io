@@ -121,6 +121,7 @@ It has been a hard journey so far and can be frustrating but i'm getting it.
 I've got the help I need and people who support me.
 
 ### I have something to prove to myself.
+I've got something deep in my heart and i'm ready to tap into it.
 I am determined to finish. 
 I am determined to show myself what I mean to myself.
 
