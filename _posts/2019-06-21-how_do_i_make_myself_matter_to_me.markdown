@@ -43,8 +43,8 @@ It was then I began the negative self-talk.
 >I didn't know it then but I was internalize the outer hate and turning it in inner hate.
 
 **I blanked out.**
-Skipped school a bunch and to hell with a gpa.
-College pushed me a bit but I still wasn't into it.
+Skipped school a bunch and did a lot of not caring.
+College pushed me a bit but not enough.
 
 >Be smart but feel dumb
 >Be pretty but feel ugly
